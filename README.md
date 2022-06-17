@@ -1,4 +1,4 @@
-👋 <b><i>OpenAcademics is a community!</b></i>
+## 👋 <b><i>OpenAcademics is a community!</b></i>
 
 Academia is a place of many challenges, where there is often a lack of support and understanding. I wanted to create a space for academics to interact with other academics, irrespective of career stage, discipline, or location. Twitter offered a perfect platform to start this community – In December 2019, OpenAcademics was conceptualized and launched.
 
